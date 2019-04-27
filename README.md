@@ -1,0 +1,3 @@
+# CodePlayerJS
+
+A simple codeplayer
